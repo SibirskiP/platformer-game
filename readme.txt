@@ -1,6 +1,6 @@
 This is a simple 2D platformer game I build in python.
 I used only 2 modules:
--pyzrun  
+-pgzrun  
 -from pygame ONLY Rect.
 
 
